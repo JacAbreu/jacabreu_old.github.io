@@ -1,0 +1,25 @@
+
+.center{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top:35px;
+	padding-top:20px;	
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:20px;
+	width:70%;
+	font-family: 'Imprima', sans-serif;
+	font-size:12pt;
+	background:#FFFFFF;
+}
+
+.titulo{
+
+	font-size:28pt;
+	#font-variant:small-caps;
+	font-family: 'Happy Monkey', cursive;
+}
+
+body{
+	background:#EFF2FB;
+}
