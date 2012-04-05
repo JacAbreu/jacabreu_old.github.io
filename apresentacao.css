@@ -2,34 +2,59 @@
 .center{
 	margin-right: auto;
 	margin-left: auto;
-	margin-top:35px;
-	padding-top:20px;	
-	padding-left:20px;
-	padding-right:20px;
-	padding-bottom:20px;
-	width:70%;
+	margin-top: 35px;
+	padding-top: 20px;	
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	width: 70%;
 	font-family: 'Imprima', sans-serif;
-	font-size:12pt;
-	background:#FFFFFF;
+	font-size: 12pt;
+	background: #FFFFFF;
 }
 
 .titulo{
 
-	font-size:28pt;
-	#font-variant:small-caps;
+	font-size: 28pt;
+	/*font-variant:small-caps;*/
 	font-family: 'Happy Monkey', cursive;
+	color: #0A0A2A;
 }
 
 .itens{
 	font-family: 'Happy Monkey', cursive;
-	font-size:14pt;
+	font-size: 14pt;
 }
 
 .subitens{
 	font-family: 'Happy Monkey', cursive;
-	font-size:12pt;
+	font-size: 12pt;
 }
 
 body{
-	background:#EFF2FB;
+	/*background:#EFF2FB;
+	#background:#0A2229;
+	*/
+	background: #F2F2F2;
 }
+
+.icon{
+	margin-left: 20px;
+}
+
+/*obrigada pela ajuda no css, @juanplopes :D */
+.icon img {
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+.icon img:hover{
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	transform: scale(1.2);
+}
+/*final da ajuda :D */
