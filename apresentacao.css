@@ -31,6 +31,20 @@
 	font-size: 12pt;
 }
 
+a:link{
+	color: #122A0A;
+}
+a:visited{
+	color: #0404B4;
+}
+a:hover{
+	color: #58ACFA;
+}
+a:active{
+	color:#8A0808;
+}
+
+
 body{
 	/*background:#EFF2FB;
 	#background:#0A2229;
