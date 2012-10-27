@@ -46,10 +46,15 @@ a:active{
 
 
 body{
-	/*background:#EFF2FB;
-	#background:#0A2229;
-	*/
+	/*
+	background: #EFF2FB;
+	background: #0A2229;
 	background: #F2F2F2;
+	background: #F5F5F5; - whiteSmoke
+	*/
+
+	background: #E3E4FA;
+	
 }
 
 .icon{
