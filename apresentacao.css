@@ -1,24 +1,65 @@
+.centerBody{
+	margin-right: 14%;
+	margin-left: 14%; 
+	margin-top: 5px;
+	
+	border: 0px;
+	
+	width: 72%;
+	/*height:475px;*/
+	
+	font-family: 'Imprima', sans-serif;
+	font-size: 12pt;
+	text-align:left;
+	
+	
+}
 
-.center{
-	margin-right: auto;
-	margin-left: auto;
-	margin-top: 35px;
-	padding-top: 20px;	
+.centerText{
+	width: 77.7%;
+	float:left;
+	background: #FFFFFF;
+	margin-right:5px;
+	
+	padding-top: 20px;
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-bottom: 20px;
-	width: 70%;
-	font-family: 'Imprima', sans-serif;
-	font-size: 12pt;
-	background: #FFFFFF;
+	border: 0px;
 }
 
-.titulo{
+.enthusiastic{
+	width: 16%;
+	/*height: 435px;*/
+	float:right;
+	background: #FFFFFF;
+	
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	border: 0px;
+
+}
+
+.titleFont{
 
 	font-size: 28pt;
 	/*font-variant:small-caps;*/
 	font-family: 'Happy Monkey', cursive;
 	color: #0A0A2A;
+}
+
+
+.title{
+	padding-top: 20px;	
+	padding-left: 290px;
+	padding-right: 290px;
+	padding-bottom: 20px;
+	/*width: 70%;*/
+	font-family: 'Imprima', sans-serif;
+	font-size: 12pt;
+	background: #E3E4FA;
 }
 
 .itens{
@@ -51,9 +92,11 @@ body{
 	background: #0A2229;
 	background: #F2F2F2;
 	background: #F5F5F5; - whiteSmoke
-	*/
+	
 
 	background: #E3E4FA;
+	*/
+	margin: 0px;
 	
 }
 
@@ -77,3 +120,17 @@ body{
 	transform: scale(1.2);
 }
 /*final da ajuda :D */
+.centerFooter{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 5px;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	width: 70%;
+	font-family: 'Imprima', sans-serif;
+	font-size: 12pt;
+	background: #FFFFFF;
+}
+
