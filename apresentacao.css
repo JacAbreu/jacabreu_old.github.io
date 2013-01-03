@@ -1,6 +1,7 @@
 *.{
 	margin: 0px;
 	padding: 0px;
+	overflow:auto;
 }
 
 .centerBody{
@@ -15,21 +16,20 @@
 	font-family: 'Imprima', sans-serif;
 	font-size: 12pt;
 	text-align:left;
-	overflow:auto;
-	
-	
 }
 
 .centerText{
 	width: 70%;
 	float:left;
 	background: #FFFFFF;
-	margin-right:5px;
 	
+	margin-right:5px;
+		
 	padding-top: 20px;
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-bottom: 20px;
+	
 	border: 0px;
 }
 
@@ -38,13 +38,12 @@
 
 	float:right;
 	background: #FFFFFF;
-	
+
 	padding-top: 20px;
-	padding-left: 20px;
-	padding-right: 20px;
+	/*padding-left: 20px;
+	padding-right: 20px;*/
 	padding-bottom: 20px;
 	border: 0px;
-
 }
 
 .titleFont{
@@ -59,7 +58,7 @@
 .title{
 	padding-top: 20px;	
 	padding-left: 290px;
-	padding-right: 290px;
+	/*padding-right: 290px;*/
 	padding-bottom: 20px;
 
 	font-family: 'Imprima', sans-serif;
