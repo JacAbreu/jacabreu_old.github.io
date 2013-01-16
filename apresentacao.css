@@ -57,9 +57,8 @@
 
 .title{
 	padding-top: 20px;	
-	padding-left: 290px;
-	/*padding-right: 290px;*/
 	padding-bottom: 20px;
+	padding-left: 290px;
 
 	font-family: 'Imprima', sans-serif;
 	font-size: 12pt;
@@ -118,16 +117,11 @@ body{
 /*final da ajuda :D */
 
 .centerFooter{
-	margin-right: auto;
-	margin-left: auto;
-	margin-top: 5px;
-	padding-top: 10px;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom: 5px;
-	width: 70%;
+	padding-top: 20px;	
+	padding-bottom: 20px;
+	padding-left: 290px;
 	font-family: 'Imprima', sans-serif;
 	font-size: 12pt;
-	background: #FFFFFF;
+	background: #E3E4FA;
 }
 
