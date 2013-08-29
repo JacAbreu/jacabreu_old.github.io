@@ -35,7 +35,7 @@
 
 .social-links{
 	width: 100%;
-	/*background: #dcddf8;*/
+	background: #dcddf8;
 	padding-top: 10px;
 	padding-bottom: 60px;
 }
@@ -75,14 +75,7 @@
 
 	font-family: 'Imprima', sans-serif;
 	font-size: 12pt;
-	background: #c39fea; /* Old browsers */
-	background: -moz-linear-gradient(top,  #c39fea 0%, #dedff7 76%, #d9dcf7 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c39fea), color-stop(76%,#dedff7), color-stop(100%,#d9dcf7)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #c39fea 0%,#dedff7 76%,#d9dcf7 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #c39fea 0%,#dedff7 76%,#d9dcf7 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  #c39fea 0%,#dedff7 76%,#d9dcf7 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  #c39fea 0%,#dedff7 76%,#d9dcf7 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c39fea', endColorstr='#d9dcf7',GradientType=0 ); /* IE6-9 */
+	background: #E3E4FA;
 }
 
 .itens{
