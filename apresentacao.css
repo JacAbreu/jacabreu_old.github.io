@@ -35,15 +35,14 @@
 
 .social-links{
 	width: 100%;
-	background: #dcddf8;
-	padding-top: 10px;
-	padding-bottom: 60px;
+	/*background: #dcddf8;*/
+	padding-bottom: 15px;
 }
 
 #social{
 	padding-top: 20px;
 	text-align: right;
-	width: 85%;
+	width: 82%;
 }
 
 .enthusiastic{
@@ -75,7 +74,7 @@
 
 	font-family: 'Imprima', sans-serif;
 	font-size: 12pt;
-	background: #E3E4FA;
+	/*background: #E3E4FA;*/
 }
 
 .itens{
@@ -112,6 +111,9 @@ body{
 	margin-left: 20px;
 }
 
+.icon-m{
+	margin-left: 5px;
+}
 /*obrigada pela ajuda no css, @juanplopes :D */
 .icon img {
 	-webkit-transition: all 0.2s ease-in-out;
