@@ -35,7 +35,12 @@
 
 .social-links{
 	width: 100%;
-	background: #dcddf8;
+	/*background: #dcddf8;*/
+	background-image: linear-gradient(bottom, rgb(227,229,250) 67%, rgb(220,221,248) 65%);
+	background-image: -o-linear-gradient(bottom, rgb(227,229,250) 67%, rgb(220,221,248) 65%);
+	background-image: -moz-linear-gradient(bottom, rgb(227,229,250) 67%, rgb(220,221,248) 65%);
+	background-image: -webkit-linear-gradient(bottom, rgb(227,229,250) 67%, rgb(220,221,248) 65%);
+	background-image: -ms-linear-gradient(bottom, rgb(227,229,250) 67%, rgb(220,221,248) 65%);
 	padding-top: 10px;
 	padding-bottom: 60px;
 }
