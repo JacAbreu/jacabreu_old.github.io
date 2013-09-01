@@ -1,59 +1,48 @@
-*.{
-	margin: 0px;
-	padding: 0px;
-	overflow:auto;
-}
-
-.centerBody{
-	margin-right: 290px;
+div.content{
 	margin-left: 290px; 
 	margin-top: 5px;
-	
 	border: 0px;
-	
-	width: 72%;
-	
+	width: 60%;
 	font-family: 'Imprima', sans-serif;
 	font-size: 12pt;
 	text-align:left;
+	float: left
 }
-
-.centerText{
-	width: 70%;
-	float:left;
-	background: #FFFFFF;
-	
-	margin-right:5px;
-		
-	padding-top: 20px;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom: 20px;
-	
-	border: 0px;
-}
-
 .social-links{
+	text-align: right;
 	width: 100%;
 	/*background: #dcddf8;*/
 	padding-bottom: 15px;
 }
-
+div#general{
+	width: 100%;
+	padding-bottom:5px;
+}
+div#publisher{
+	width: 100%;
+	padding-bottom:5px;
+}
 #social{
-	padding-top: 20px;
-	text-align: right;
 	width: 82%;
+}
+div#about{
+	float: left;
+	width: 60%;
+	padding-right: 15px;
+}
+div#contact{
+	float: left;
+	width: 38%;
+
 }
 
 .enthusiastic{
 	width: 16%;
-
-	float:right;
+	float:left;
 	background: #FFFFFF;
-
 	padding-top: 20px;
-	/*padding-left: 20px;
-	padding-right: 20px;*/
+	padding-left: 35px;
+	/*padding-right: 20px;*/
 	padding-bottom: 20px;
 	border: 0px;
 }
@@ -85,6 +74,10 @@
 .subitens{
 	font-family: 'Happy Monkey', cursive;
 	font-size: 12pt;
+}
+
+header div.menu a{
+	margin-right:5px;
 }
 
 a:link{
