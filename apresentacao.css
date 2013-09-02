@@ -17,7 +17,6 @@ div.content{
 div#general{
 	width: 100%;
 	padding-bottom:5px;
-	background: #FFFFFF;
 }
 div#publisher{
 	width: 100%;
@@ -39,7 +38,6 @@ div#contact{
 .enthusiastic{
 	width: 16%;
 	float:left;
-	background: #FFFFFF;
 	padding-top: 20px;
 	padding-left: 35px;
 	/*padding-right: 20px;*/
