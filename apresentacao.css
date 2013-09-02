@@ -7,6 +7,7 @@ div.content{
 	font-size: 12pt;
 	text-align:left;
 	float: left
+	background: #FFFFFF;
 }
 .social-links{
 	text-align: right;
@@ -95,9 +96,15 @@ a:active{
 
 
 body{
-
+	background: #1c598e; /* Old browsers */
+	background: -moz-linear-gradient(45deg, #1c598e 0%, #7aa2e8 19%, #80a5e5 36%, #88bfc9 51%, #98b3e2 65%, #b3b5db 81%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#1c598e), color-stop(19%,#7aa2e8), color-stop(36%,#80a5e5), color-stop(51%,#88bfc9), color-stop(65%,#98b3e2), color-stop(81%,#b3b5db)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(45deg, #1c598e 0%,#7aa2e8 19%,#80a5e5 36%,#88bfc9 51%,#98b3e2 65%,#b3b5db 81%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(45deg, #1c598e 0%,#7aa2e8 19%,#80a5e5 36%,#88bfc9 51%,#98b3e2 65%,#b3b5db 81%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(45deg, #1c598e 0%,#7aa2e8 19%,#80a5e5 36%,#88bfc9 51%,#98b3e2 65%,#b3b5db 81%); /* IE10+ */
+	background: linear-gradient(45deg, #1c598e 0%,#7aa2e8 19%,#80a5e5 36%,#88bfc9 51%,#98b3e2 65%,#b3b5db 81%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c598e', endColorstr='#b3b5db',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 	margin: 0px;
-	
 }
 
 .icon{
