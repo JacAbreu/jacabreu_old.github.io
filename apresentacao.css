@@ -7,7 +7,6 @@ div.content{
 	font-size: 12pt;
 	text-align:left;
 	float: left
-	background: #FFFFFF;
 }
 .social-links{
 	text-align: right;
@@ -18,6 +17,7 @@ div.content{
 div#general{
 	width: 100%;
 	padding-bottom:5px;
+	background: #FFFFFF;
 }
 div#publisher{
 	width: 100%;
@@ -34,7 +34,6 @@ div#about{
 div#contact{
 	float: left;
 	width: 38%;
-
 }
 
 .enthusiastic{
@@ -61,7 +60,6 @@ div#contact{
 	padding-top: 130px;	
 	padding-bottom: 20px;
 	padding-left: 290px;
-
 	font-family: 'Imprima', sans-serif;
 	font-size: 12pt;
 	/*background: #E3E4FA;*/
@@ -95,7 +93,7 @@ a:active{
 }
 
 
-body{
+html{
 	background: #1c598e; /* Old browsers */
 	background: -moz-linear-gradient(45deg, #1c598e 0%, #7aa2e8 19%, #80a5e5 36%, #88bfc9 51%, #98b3e2 65%, #b3b5db 81%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#1c598e), color-stop(19%,#7aa2e8), color-stop(36%,#80a5e5), color-stop(51%,#88bfc9), color-stop(65%,#98b3e2), color-stop(81%,#b3b5db)); /* Chrome,Safari4+ */
@@ -104,6 +102,9 @@ body{
 	background: -ms-linear-gradient(45deg, #1c598e 0%,#7aa2e8 19%,#80a5e5 36%,#88bfc9 51%,#98b3e2 65%,#b3b5db 81%); /* IE10+ */
 	background: linear-gradient(45deg, #1c598e 0%,#7aa2e8 19%,#80a5e5 36%,#88bfc9 51%,#98b3e2 65%,#b3b5db 81%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c598e', endColorstr='#b3b5db',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+body{
 	margin: 0px;
 }
 
