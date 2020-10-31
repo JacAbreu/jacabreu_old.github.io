@@ -1,0 +1,133 @@
+div.content{
+	margin-left: 290px; 
+	margin-top: 5px;
+	border: 0px;
+	width: 60%;
+	font-family: 'Imprima', sans-serif;
+	font-size: 12pt;
+	text-align:left;
+	float: left
+}
+.social-links{
+	text-align: right;
+	width: 100%;
+	/*background: #dcddf8;*/
+	padding-bottom: 15px;
+}
+div#general{
+	width: 100%;
+	padding-bottom:5px;
+}
+div#publisher{
+	width: 100%;
+	padding-bottom:5px;
+}
+#social{
+	width: 82%;
+}
+div#about{
+	float: left;
+	width: 60%;
+	padding-right: 15px;
+}
+div#contact{
+	float: left;
+	width: 38%;
+}
+
+.enthusiastic{
+	width: 16%;
+	float:left;
+	padding-top: 20px;
+	padding-left: 35px;
+	/*padding-right: 20px;*/
+	padding-bottom: 20px;
+	border: 0px;
+}
+
+.titleFont{
+
+	font-size: 28pt;
+	/*font-variant:small-caps;*/
+	font-family: 'Happy Monkey', cursive;
+	color: #0A0A2A;
+}
+
+
+.title{
+	padding-top: 130px;	
+	padding-bottom: 20px;
+	padding-left: 290px;
+	font-family: 'Imprima', sans-serif;
+	font-size: 12pt;
+	/*background: #E3E4FA;*/
+}
+
+.itens{
+	font-family: 'Happy Monkey', cursive;
+	font-size: 14pt;
+}
+
+.subitens{
+	font-family: 'Happy Monkey', cursive;
+	font-size: 12pt;
+}
+
+header div.menu a{
+	margin-right:5px;
+}
+
+a:link{
+	color: #122A0A;
+}
+a:visited{
+	color: #0404B4;
+}
+a:hover{
+	color: #58ACFA;
+}
+a:active{
+	color:#8A0808;
+}
+
+
+html{
+}
+
+body{
+	margin: 0px;
+}
+
+.icon{
+	margin-left: 20px;
+}
+
+.icon-m{
+	margin-left: 5px;
+}
+/*obrigada pela ajuda no css, @juanplopes :D */
+.icon img {
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+.icon img:hover{
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	transform: scale(1.2);
+}
+/*final da ajuda :D */
+
+.centerFooter{
+	padding-top: 20px;	
+	padding-bottom: 20px;
+	padding-left: 290px;
+	font-family: 'Imprima', sans-serif;
+	font-size: 12pt;
+	background: #E3E4FA;
+}
+

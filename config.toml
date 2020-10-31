@@ -1,0 +1,25 @@
+baseURL = "https://JacAbreu.github.io/"
+languageCode = "en-us"
+title = "Casa da Jac"
+theme = "hugo-kiera"
+pygmentsCodeFences = true
+
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+menu = "main"
+meta = "false"
+
+[author]
+    name = "Jac Abreu"           #Author name
+    github = "JacAbreu"         #Github username
+    gitlab = ""         #Gitlab username
+    linkedin = "jacabreu"       #LinkedIn username
+    stackoverflow = ""  #StackOverflow username
+    devto = ""          #Dev.to username 
+
+[params]
+    tagline = "Aprendizados e pensamentos da Jac"
+    customCSS = []  #Optional Customised CSS
+    disableDarkModeCSS = false # disables css style for users using dark-mode
+
