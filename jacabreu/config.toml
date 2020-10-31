@@ -1,4 +1,4 @@
-baseURL = "https://JacAbreu.github.io/"
+baseURL = "https://jacabreu.github.io/"
 languageCode = "en-us"
 title = "Casa da Jac"
 theme = "hugo-kiera"
